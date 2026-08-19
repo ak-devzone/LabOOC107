@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     float radius, area, circumference;
-    const float PI = 3.14159;
+    const float PI = 3.14;
 
     cout << "Enter radius: ";
     cin >> radius;
@@ -15,7 +15,7 @@ int main()
     circumference = 2 * PI * radius;
 
     cout << "Area = " << area << endl;
-    cout << "Circumference = " << circumference;
+    cout << "Circumference = " << circumference << endl;
 
     return 0;
 }

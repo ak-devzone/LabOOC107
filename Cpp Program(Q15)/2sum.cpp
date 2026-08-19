@@ -7,12 +7,14 @@ int main()
 {
     int a, b, sum;
 
-    cout << "Enter two numbers: ";
-    cin >> a >> b;
+    cout << "Enter first number: ";
+    cin >> a;
+    cout << "Enter second number:";
+    cin >> b;
 
     sum = a + b;
 
-    cout << "Sum = " << sum;
+    cout << "Sum = " << sum << endl;
 
     return 0;
 }
