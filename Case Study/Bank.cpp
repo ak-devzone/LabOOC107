@@ -33,6 +33,9 @@ private:
     char type;
 
 public:
+    // Constructor
+    Bank();
+
     void SystemClear();
     void GetData();
     void WriteData();
@@ -56,6 +59,15 @@ public:
 // ============================================================
 // Bank Class Functions
 // ============================================================
+
+// Constructor
+Bank::Bank()
+{
+    accountNumber = 0;
+    holderName[0] = '\0';
+    deposit = 0;
+    type = 'S';
+}
 
 // Clear screen
 void Bank::SystemClear()
