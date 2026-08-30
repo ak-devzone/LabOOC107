@@ -64,19 +64,23 @@ public:
 // Checking Account Class
 class CheckingAccount
 {
-private:
+public:
+    S
+    SavingAccount S1;
     string accountHolderName;
     int accountNumber;
     double balance;
     double transactionFee;
 
 public:
-    CheckingAccount(string name, int accNumber, double initialBalance, double fee)
+    
+    CheckingAccount(string name, int accNumber, double initialBalance, double fee,  )
     {
-        accountHolderName = name;
-        accountNumber = accNumber;
-        balance = initialBalance;
-        transactionFee = fee;
+        S1.accountHolderName = name;
+        S1.accountNumber = accNumber;
+        S1.balance = initialBalance;
+        S1.transactionFee = fee;
+        S1.rate=7;
     }
 
     void deposit(double amount)
@@ -113,6 +117,7 @@ public:
         cout << "Account Number: " << accountNumber << endl;
         cout << "Balance: Rs." << balance << endl;
         cout << "Transaction Fee: Rs." << transactionFee << endl;
+
     }
 };
 

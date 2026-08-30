@@ -119,6 +119,11 @@ public:
 // Main Function
 int main()
 {
+    String name1,name2;
+    int acc1,acc2;
+    double bal1,bal2;
+    double tran1,tran2;
+   
     SavingAccount savings("Alice", 1001, 5000.0, 3.0);
     CheckingAccount checking("Bob", 1002, 3000.0, 20.0);
 
