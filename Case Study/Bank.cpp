@@ -595,6 +595,7 @@ void AccountModification(unsigned long long number)
 
             file.seekp(
                 -static_cast<streamoff>(sizeof(Bank)),
+                
                 ios::cur
             );
 
