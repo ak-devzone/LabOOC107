@@ -4,7 +4,7 @@ using namespace std;
 // Abstract class
 class Vehicle
 {
-public:
+private:
     // Pure virtual functions
     virtual void start() = 0;
     virtual void stop() = 0;
