@@ -110,20 +110,31 @@ Welcome to my OOC laboratory assignment repository.
 </table>
 
 <!--Case study -->
-📘 OOC Case Study
+📘 OOC Case Study & Performance Test 
 <p align="center">
 <img src="https://img.shields.io/badge/OOC-Case%20Study-blue?style=for-the-badge" alt="OOC Case Study">
 <img src="https://img.shields.io/badge/Subject-C%2B%2B-purple?style=for-the-badge&logo=cplusplus" alt="C++">
 </p>
- 
-📂 Case Study Dashboard
+
+## 📂 Case Study & Performance Test Dashboard
+
 <table>
 <tr>
-<td align="center">
+<td align="center" width="50%">
 <a href="https://github.com/ak-devzone/LabOOC107/tree/main/Case%20Study">
 <img src="https://img.shields.io/badge/OPEN-CASE%20STUDY-2563EB?style=for-the-badge&logo=github" alt="Open Case Study">
 <br><br>
 <b>📄 Case Study</b>
+<br>
+View Files →
+</a>
+</td>
+
+<td align="center" width="50%">
+<a href="https://github.com/ak-devzone/LabOOC107/tree/main/Performance%20Test">
+<img src="https://img.shields.io/badge/OPEN-PERFORMANCE%20TEST-059669?style=for-the-badge&logo=github" alt="Open Performance Test">
+<br><br>
+<b>📊 Performance Test</b>
 <br>
 View Files →
 </a>
