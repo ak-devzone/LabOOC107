@@ -17,7 +17,7 @@ Welcome to my OOC laboratory assignment repository.
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="./Assignment%201/">
+<a href="https://github.com/ak-devzone/LabOOC107/tree/main/CPP%20INTRO/Assignment%201">
 <img src="https://img.shields.io/badge/ASSIGNMENT-01-2563EB?style=for-the-badge" alt="Assignment 1">
 <br><br><b>Assignment 1</b>
 <br>View Source Code →
