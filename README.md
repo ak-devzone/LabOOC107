@@ -143,7 +143,7 @@ View Files →
 <table>
 <tr>
 <td align="center" width="50%">
-<a href="https://github.com/ak-devzone/LabOOC107/tree/main/C%20Programming">
+<a href="https://github.com/ak-devzone/LabOOC107/tree/main/Cpp%20Program(Q15)">
 <img src="https://img.shields.io/badge/OPEN-C%20PROGRAMMING-2563EB?style=for-the-badge&logo=c" alt="Open C Programming">
 <br><br>
 <b>💻 C Programming</b>
