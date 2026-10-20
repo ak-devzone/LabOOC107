@@ -25,3 +25,8 @@ class Student{
         cout<<"roll no :- "
     }
 }
+int main (){
+
+    Student s1.display();
+    return 0;
+}
