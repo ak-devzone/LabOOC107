@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/ak-devzone/LabOOC107">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+LabOOC107;C%2B%2B+Programming+Lab;Assignment+%7C+Case+Studies+%7C+Practicals"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+LabOOC107;C%2B%2B+Programming+Lab;Assignment;%7C+Case+Studies+%7C+Practicals"
       alt="Welcome to LabOOC107 - C++ Programming Lab - Assignments, Case Studies and Practicals"
     >
   </a>
