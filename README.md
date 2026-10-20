@@ -116,7 +116,7 @@ Welcome to my OOC laboratory assignment repository.
 <img src="https://img.shields.io/badge/Subject-C%2B%2B-purple?style=for-the-badge&logo=cplusplus" alt="C++">
 </p>
 
-📂 Case Study & Performance Test Dashboard
+## 📂 Case Study & Performance Test Dashboard
 
 <table>
 <tr>
