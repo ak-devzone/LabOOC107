@@ -131,6 +131,39 @@ View Files →
 </tr>
 </table>
 <!-->
+
+💻 C & C++ Programming — 15 Questions
+<p align="center">
+<img src="https://img.shields.io/badge/C-Programming-blue?style=for-the-badge&logo=c" alt="C Programming">
+<img src="https://img.shields.io/badge/C%2B%2B-Programming-purple?style=for-the-badge&logo=cplusplus" alt="C++ Programming">
+<img src="https://img.shields.io/badge/Questions-15-success?style=for-the-badge" alt="15 Questions">
+</p>
+## 📂 Programming Dashboard
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/ak-devzone/LabOOC107/tree/main/C%20Programming">
+<img src="https://img.shields.io/badge/OPEN-C%20PROGRAMMING-2563EB?style=for-the-badge&logo=c" alt="Open C Programming">
+<br><br>
+<b>💻 C Programming</b>
+<br>
+View Files →
+</a>
+</td>
+
+<td align="center" width="50%">
+<a href="https://github.com/ak-devzone/LabOOC107/tree/main/CPP%20INTRO">
+<img src="https://img.shields.io/badge/OPEN-CPP%20PROGRAMMING-7C3AED?style=for-the-badge&logo=cplusplus" alt="Open C++ Programming">
+<br><br>
+<b>💻 C++ Programming</b>
+<br>
+View Files →
+</a>
+</td>
+</tr>
+</table>
+<!-->
 📘 About This Repository
 
 This repository contains C++ programs completed for the Object-Oriented Programming (OOC) Laboratory.
