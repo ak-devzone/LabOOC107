@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ak-devzone/LabOOC107">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+LabOOC107;C+%26+C%2B%2B+Programming+Lab;Assignments+%7C+Case+Studies+%7C+Practicals" alt="LabOOC107 scrolling text">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+LabOOC107+C%2B%2B+Programming+Lab; Assignments+%7C+Case+Studies+%7C+Practicals" alt="LabOOC107 scrolling text">
   </a>
 </p>
 <!-->
