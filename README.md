@@ -109,6 +109,36 @@ Welcome to my OOC laboratory assignment repository.
 </tr>
 </table>
 
+<!--Case study -->
+📘 OOC Case Study
+<p align="center">
+<img src="https://img.shields.io/badge/OOC-Case%20Study-blue?style=for-the-badge" alt="OOC Case Study">
+<img src="https://img.shields.io/badge/Subject-C%2B%2B-purple?style=for-the-badge&logo=cplusplus" alt="C++">
+</p>
+
+<p align="center">
+<b>Object-Oriented Programming Laboratory</b>
+<br>
+Welcome to my Case Study submission.
+<br>
+Click below to explore the case study files.
+</p>
+
+📂 Case Study Dashboard
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/ak-devzone/LabOOC107/tree/main/Case%20Study">
+<img src="https://img.shields.io/badge/OPEN-CASE%20STUDY-2563EB?style=for-the-badge&logo=github" alt="Open Case Study">
+<br><br>
+<b>📄 Case Study</b>
+<br>
+View Files →
+</a>
+</td>
+</tr>
+</table>
+<!-->
 📘 About This Repository
 
 This repository contains C++ programs completed for the Object-Oriented Programming (OOC) Laboratory.
