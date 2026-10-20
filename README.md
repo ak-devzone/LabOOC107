@@ -115,15 +115,7 @@ Welcome to my OOC laboratory assignment repository.
 <img src="https://img.shields.io/badge/OOC-Case%20Study-blue?style=for-the-badge" alt="OOC Case Study">
 <img src="https://img.shields.io/badge/Subject-C%2B%2B-purple?style=for-the-badge&logo=cplusplus" alt="C++">
 </p>
-
-<p align="center">
-<b>Object-Oriented Programming Laboratory</b>
-<br>
-Welcome to my Case Study submission.
-<br>
-Click below to explore the case study files.
-</p>
-
+ 
 📂 Case Study Dashboard
 <table>
 <tr>
