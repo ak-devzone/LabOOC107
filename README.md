@@ -116,11 +116,11 @@ Welcome to my OOC laboratory assignment repository.
 <br>View Source Code →
 </a>
 </td>
-<td align="center">
-<a href="https://github.com/ak-devzone/LabOOC107">
-<img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github" alt="GitHub Repository">
-<br><br><b>Main Repository</b>
-<br>Explore All Files →
+  <td align="center">
+<a href="https://github.com/ak-devzone/LabOOC107/tree/main/CPP%20INTRO/Assignment%2013">
+<img src="https://img.shields.io/badge/ASSIGNMENT-11-0284C7?style=for-the-badge" alt="Assignment 12">
+<br><br><b>Assignment 12</b>
+<br>View Source Code →
 </a>
 </td>
 </tr>
